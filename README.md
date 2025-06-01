@@ -33,7 +33,7 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 2. Rode o algoritmo com o comando:
 
 ```
-python3 resolucao.py
+python3 solucao.py
 ```
 
 ## Uso 
