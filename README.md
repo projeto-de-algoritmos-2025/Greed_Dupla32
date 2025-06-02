@@ -1,4 +1,4 @@
-# NextBook
+# Greed
 
 **Conteúdo da Disciplina**: Greed
 
@@ -26,6 +26,17 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ![2290](assets/3464.2.png)
 ![2290](assets/3464.3.png)
 
+
+### [2132. Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/description/?envType=problem-list-v2&envId=greedy)
+
+![2132](assets/2132_1.png)
+![2132](assets/2132_2.png)
+
+
+### [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/description/?envType=problem-list-v2&envId=greedy)
+
+![2573](assets/2573_1.png)
+![2573](assets/2573_2.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
