@@ -52,4 +52,4 @@ Apenas execute o código
 
 ## Vídeo 
 
-![Video](https://youtu.be/czFODCGUp9A)
+[![Video](https://img.youtube.com/vi/czFODCGUp9A/0.jpg)](https://youtu.be/czFODCGUp9A)
